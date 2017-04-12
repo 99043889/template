@@ -1,0 +1,54 @@
+body { 
+	font-family: 'Roboto', 'arial', sans-serif; 
+	background-image: url("5335792119_c4a937f700_b.jpg");
+	color: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    height: auto;
+    
+}
+
+h6 {   
+		text-align: center;
+		padding: 20px;
+		font-size: 38%;
+	}
+
+h1 {
+	   font-weight: bold;
+}
+
+.header {
+	   background-color: none;
+	   color: white;
+	   border: 1px solid;
+	   padding: 0px;
+	   text-align: center;
+	   margin-top:300px;
+	   text-transform: uppercase;
+	   position: absolute;
+	   left: 0;
+	   top: 50%;
+	   width: 100%;
+
+}
+
+#container {
+	   position: relative;
+}
+
+.main {
+
+	   position: absolute;
+	   left: 0;
+	   top: 50%;
+	   width: 100%;
+
+}
+
+
+
+
+
+
+
+

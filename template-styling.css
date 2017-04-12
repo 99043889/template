@@ -1,0 +1,51 @@
+body { 
+	font-family: 'Roboto', 'arial', sans-serif; 
+	color: rgba(255, 255, 255, 0.8);
+    width: 900px;
+    height: auto;
+}
+
+img {
+    display: block;
+    margin: 0px;
+    width: 150%;
+    height: auto;
+}
+
+h6 {   
+}
+
+h1 {
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.header {
+	position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+#container {
+	position: relative;
+}
+
+.main {
+	position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+

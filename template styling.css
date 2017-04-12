@@ -1,0 +1,43 @@
+body { 
+	   font-family: 'Roboto', sans-serif; 
+	   background-image: url("FloatingLanternCeremony_EN-US10733123126_1920x1200.jpg");
+	}
+
+h6 { text-align: center;
+	   font-family: 'Roboto', sans-serif; 
+	   padding: 10px;
+	}
+
+
+#header {
+       background-color: none;
+       color: solid black;
+       text-align: center;
+       margin-right: 130px;
+       border: 1px;
+       padding-right: 50px;
+       padding-left: 50px;
+       padding-top: 150px;
+}
+#container {
+       width: 500px;
+       margin-left: auto;
+       margin-right: auto;
+}
+#main {
+	width: 500px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
